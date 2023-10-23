@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.24.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.23.0...taiko-mono-v0.24.0) (2023-10-23)
+
+
+### Features
+
+* **bridge-ui-v2:** add title to toast ([#14962](https://github.com/taikoxyz/taiko-mono/issues/14962)) ([91ff244](https://github.com/taikoxyz/taiko-mono/commit/91ff2446dd07354ee88e1357184ba5063bb43db6))
+* **bridge-ui-v2:** nft claiming ([#14960](https://github.com/taikoxyz/taiko-mono/issues/14960)) ([b60a7e2](https://github.com/taikoxyz/taiko-mono/commit/b60a7e2a6b7bc09cbb622ad9873d88c158707490))
+* **pos-dashboard:** Remove pos-dashboard ([#15009](https://github.com/taikoxyz/taiko-mono/issues/15009)) ([87b474f](https://github.com/taikoxyz/taiko-mono/commit/87b474f4c911687e96cfc0073ef3bb6956dc5fdf))
+
 ## [0.23.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.22.0...taiko-mono-v0.23.0) (2023-10-18)
 
 

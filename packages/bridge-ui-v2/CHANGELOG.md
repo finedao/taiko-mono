@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.10.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2-v2.9.0...bridge-ui-v2-v2.10.0) (2023-10-23)
+
+
+### Features
+
+* **bridge-ui-v2:** add title to toast ([#14962](https://github.com/taikoxyz/taiko-mono/issues/14962)) ([91ff244](https://github.com/taikoxyz/taiko-mono/commit/91ff2446dd07354ee88e1357184ba5063bb43db6))
+* **bridge-ui-v2:** nft claiming ([#14960](https://github.com/taikoxyz/taiko-mono/issues/14960)) ([b60a7e2](https://github.com/taikoxyz/taiko-mono/commit/b60a7e2a6b7bc09cbb622ad9873d88c158707490))
+
 ## [2.9.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2-v2.8.0...bridge-ui-v2-v2.9.0) (2023-10-18)
 
 
